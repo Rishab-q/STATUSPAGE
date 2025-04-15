@@ -1,6 +1,6 @@
 # StatusPage App
 
-A modern and minimal *status page application* built using *FastAPI* and *Cerk* backend and frontend with *React+Vite* and *ShandcnUI*, designed to help teams share real-time operational status of their services. Inspired by tools like StatusPage.io and BetterStack.
+A modern and minimal *status page application* built using *FastAPI* and *Clerk* backend and frontend with *React+Vite* and *ShandcnUI*, designed to help teams share real-time operational status of their services. Inspired by tools like StatusPage.io and BetterStack.
 
 ---
 
