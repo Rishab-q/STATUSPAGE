@@ -1,0 +1,8 @@
+{
+    "components": "components/ui",
+    "style": "src/index.css",
+    "tailwind": "tailwind.config.js",
+    "tsx": false,
+    "rsc": false,
+    "alias": "@/components/ui"
+  }
