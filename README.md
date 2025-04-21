@@ -1,13 +1,13 @@
 # StatusPage App
 
-A modern and minimal *status page application* built using *FastAPI* and *Auth0*, designed to help teams share real-time operational status of their services. Inspired by tools like StatusPage.io and BetterStack.
+A modern and minimal *status page application* built using *FastAPI* ,*React(Vite)* and *Clerk*, designed to help teams share real-time operational status of their services. Inspired by tools like StatusPage.io and BetterStack.
 
 ---
 
 ## Features
 
-### ✅ Authentication with Auth0
-- Secure and seamless login using *Auth0*.
+### ✅ Authentication with Clerk
+- Secure and seamless login using *Clerk*.
 - Admin routes protected to ensure only authorized users can update service status or incidents.
 
 ### 🚦 Service Monitoring Dashboard
